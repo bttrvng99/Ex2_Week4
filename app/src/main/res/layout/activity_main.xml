@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <AutoCompleteTextView
+        android:text="Enter name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/oneAuto"
+        android:textSize="24dp"
+        android:completionThreshold="1"
+        />
+    <MultiAutoCompleteTextView
+        android:text="Enter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/manyAuto"
+
+        android:textSize="24dp"
+        />
+    <Button
+        android:id="@+id/bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Change color"/>
+</LinearLayout>

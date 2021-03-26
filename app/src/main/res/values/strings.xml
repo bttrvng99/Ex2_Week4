@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ex2_Week4</string>
+    <string-array name="auto">
+        <item>Hà Nội</item>
+        <item>Hà Giang</item>
+        <item>Hải Phòng</item>
+        <item>Hội An</item>
+        <item>Thái Bình</item>
+        <item>Thái Nguyên</item>
+        <item>Thanh Hóa</item>
+        <item>TP. Hồ Chí Minh</item>
+        <item>Đà Nẵng</item>
+    </string-array>
+</resources>
